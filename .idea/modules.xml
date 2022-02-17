@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_programming/Dynamic_programming.iml" filepath="$PROJECT_DIR$/Dynamic_programming/Dynamic_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hash_Map/Hash_Map.iml" filepath="$PROJECT_DIR$/Hash_Map/Hash_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Language Families/Language Families.iml" filepath="$PROJECT_DIR$/Language Families/Language Families.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops_Involving_ArrayLists/Loops_Involving_ArrayLists.iml" filepath="$PROJECT_DIR$/Loops_Involving_ArrayLists/Loops_Involving_ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scope/Scope.iml" filepath="$PROJECT_DIR$/Scope/Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Study_Java.iml" filepath="$PROJECT_DIR$/Study_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The_Knapsack_Problem/The_Knapsack_Problem.iml" filepath="$PROJECT_DIR$/The_Knapsack_Problem/The_Knapsack_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/built_in_List.iml" filepath="$PROJECT_DIR$/List/built_in_List.iml" />
+    </modules>
+  </component>
+</project>
